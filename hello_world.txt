@@ -1,1 +1,2 @@
 This is a testing file for learning purposes
+Second line modified to test git status
